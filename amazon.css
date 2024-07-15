@@ -211,7 +211,7 @@
 
 .main {
     background-image: linear-gradient(to bottom, rgba(227,230,230,0) 50%,rgba(227,230,230,1) 100%), url(images/71Ie3JXGfVL._SX3000_.jpg);
-    width: 1520px;
+    width: 100%;
     height: 600px;
     background-size: cover;
     margin: 0 auto;
@@ -301,7 +301,7 @@ main{
 
 @font-face {
     font-family: AmazonEmberRg;
-    src: url(images/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Rg.ttf)
+    src: url(Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Rg.ttf)
     format("truetype");
 }
 #img1{
